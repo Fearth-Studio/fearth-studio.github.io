@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 120" width="620" height="120" role="img" aria-label="Fearth Game Studio">
+  <g transform="translate(0 12) scale(0.96)">
+    <path d="M0,50 A60,50 0 0 1 60,0 A40,60 0 0 1 100,60 A55,40 0 0 1 45,100 A45,50 0 0 1 0,50 Z" fill="#8fd07a" />
+  </g>
+  <text x="132" y="84" font-family="'Baloo 2', ui-rounded, 'SF Pro Rounded', system-ui, sans-serif" font-size="76" font-weight="800" fill="#fdf6e7">Fearth Game Studio</text>
+</svg>
