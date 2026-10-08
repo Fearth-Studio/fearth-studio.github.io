@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[game]\u002Fdelete-data","\u002F[game]\u002Fprivacy"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

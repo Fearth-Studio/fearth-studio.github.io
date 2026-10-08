@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://fearth-studio.github.io</loc>
-<lastmod>2026-09-28T04:08:36.638Z</lastmod>
+<lastmod>2026-10-08T07:39:00.767Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://fearth-studio.github.io/munchbits/privacy/</loc>
+<lastmod>2026-10-08</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://fearth-studio.github.io/munchbits/delete-data/</loc>
+<lastmod>2026-10-08</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
 </url>
 </urlset>
